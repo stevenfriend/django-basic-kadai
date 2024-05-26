@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+
+# If you're using a virtual environment
+venv/
+.env
+
+# Specific to various editors and operating systems
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
